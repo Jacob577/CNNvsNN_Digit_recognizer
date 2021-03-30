@@ -19,12 +19,14 @@ The data is clean and evenly distributed, let's train!
 
 ## Dense Neural Network
 The results from a dense neural network performed better than expected with an accuracy of slighly above 99%. 
+
 ![NNNumbers](NNNumbers.png)
 
 It took the Dense neural network 13 seconds to reach 99.4% accuracy.
 
 ## Convolutional Neural Networks
 The final results from the CNN performed even better, probably better than me, after some manual labour I disagreed with some of the target lables but I digress.
+
 ![CNNNumbers](CNNNumbers.png)
 
 It took the CNN roughly 35 secons to reach an accuracy of 99.3%, after that it steadely increased its accuracy and peaked at 99.9% accuracy with questionable validation loss. Though it took about 2 minutes.
